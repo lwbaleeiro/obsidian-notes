@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "c2dada8a6adbb7e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad9a8cb78a0f48cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44bb2311a9bec4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projetos/Eventhub/3 - Plano de ação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Plano de ação"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f35ad20095c99cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e9c5480492fbe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77e7fed62808383a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dcc54cf787456fb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "224ade5866c7b4ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1fc5085a66672296",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e48bfff77f62c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68089251649739e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudo/Engenharia/System Design - Escalar um sistema.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for System Design - Escalar um sistema"
+            }
+          },
+          {
+            "id": "bb76edba5e472e5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudo/Engenharia/System Design - Escalar um sistema.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from System Design - Escalar um sistema"
+            }
+          },
+          {
+            "id": "d42c8a3020a22003",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f575d55fb0e6dbd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudo/Engenharia/System Design - Escalar um sistema.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of System Design - Escalar um sistema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c44bb2311a9bec4a",
+  "lastOpenFiles": [
+    "README.md",
+    "Projetos/Eventhub/1 - Descrição Detalhada do Projeto EventHub.md",
+    "Projetos/Eventhub/3 - Plano de ação.md",
+    "Pessoal/Script.md",
+    "Projetos/Eventhub/2 - Plano do projeto.md",
+    "Estudo/Java/Redis with Java.md",
+    "2025-05-11.md",
+    "Untitled.canvas",
+    "Estudo/Java/GraphQL with Java.md",
+    "Estudo/Data Structure/Curso/Módulo 1 - Overview das Estruturas de Dados.md",
+    "Estudo/Data Structure/Curso",
+    "Estudo/Basic Programming/8 Padrões Fundamentais para Resolver Problemas de LeetCode.md",
+    "Untitled 1.canvas",
+    "2025-04-07.md",
+    "Estudo/Basic Programming/Pointers.md",
+    "Estudo/Data Structure/Arrays.md",
+    "Estudo/Data Structure/0 - What is Data Structure.md",
+    "Estudo/Basic Programming",
+    "Estudo/Data Structure/Untitled.md",
+    "Projetos/Eventhub/anexos/diagramas-fluxo-dados.png",
+    "Projetos/Eventhub/anexos/mermaid-diagram-2025-04-01-114533.png",
+    "Projetos/Eventhub/anexos/diagramas-busca-evento.png",
+    "Projetos/Eventhub/anexos/Documents - Shortcut.lnk",
+    "Projetos/Eventhub/anexos/diagramas-sequencia-busca-evento.png",
+    "Projetos/Eventhub/anexos/diagramas-classe-uml.png",
+    "Projetos/Eventhub/anexos/diagrama-sequencia.png",
+    "Projetos/Eventhub/anexos/diagramas-caso-uml.png",
+    "Projetos/Eventhub/anexos/fluxo-dados-dfd.png",
+    "Projetos/Eventhub/anexos/diagrama-classe-uml.png",
+    "Projetos/Eventhub/anexos/diagrama-caso-uso.png",
+    "Projetos/Eventhub/anexos",
+    "Projetos/Eventhub",
+    "2025-03-31.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Estudo/Data Structure/1 - Time Complexity, Big-O Notation.md",
+    "Set (Hash).md",
+    "Heap.md",
+    "Estudo/Data Structure/Heap (Priority Tree).md",
+    "Estudo/Data Structure/Graphs.md",
+    "Estudo/Data Structure/HashMap.md",
+    "Estudo/Data Structure/Queue.md",
+    "Estudo/Data Structure/Trees.md",
+    "Estudo/Data Structure/Stack.md",
+    "Estudo/Data Structure/HashSet.md",
+    "Estudo/Engenharia/99 - Anexos",
+    "Estudo/Engenharia",
+    "Estudo/AI",
+    "Estudo/Java",
+    "Estudo/Data Structure"
+  ]
+}
